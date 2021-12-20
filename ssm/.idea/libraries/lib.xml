@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://E:/lib/com.springsource.org.aopalliance-1.0.0.jar!/" />
+      <root url="jar://E:/lib/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+      <root url="jar://E:/lib/com.springsource.org.apache.log4j-1.2.15.jar!/" />
+      <root url="jar://E:/lib/druid-1.0.15.jar!/" />
+      <root url="jar://E:/lib/fastjson-1.2.7.jar!/" />
+      <root url="jar://E:/lib/hamcrest-all-1.3.jar!/" />
+      <root url="jar://E:/lib/jackson-annotations-2.5.0.jar!/" />
+      <root url="jar://E:/lib/jackson-core-2.5.4.jar!/" />
+      <root url="jar://E:/lib/jackson-databind-2.5.4.jar!/" />
+      <root url="jar://E:/lib/jstl-1.2.jar!/" />
+      <root url="jar://E:/lib/junit-4.12.jar!/" />
+      <root url="jar://E:/lib/mybatis-3.1.1.jar!/" />
+      <root url="jar://E:/lib/mybatis-spring-1.2.3.jar!/" />
+      <root url="jar://E:/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+      <root url="jar://E:/lib/servlet-api.jar!/" />
+      <root url="jar://E:/lib/spring-aop-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-aspects-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-beans-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-context-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-core-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-expression-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-jdbc-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-test-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-tx-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-web-3.2.16.RELEASE.jar!/" />
+      <root url="jar://E:/lib/spring-webmvc-3.2.16.RELEASE.jar!/" />
+      <root url="file://E:/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/lib" recursive="false" />
+  </library>
+</component>
